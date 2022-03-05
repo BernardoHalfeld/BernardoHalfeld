@@ -1,9 +1,11 @@
 ### Saudações! Eu sou o Bernardo
+##
 
 
 
 
 - 🖥 Estudante de Engenharia de Computação
+- 🎮 Apaixonado por Games e tecnologias
 
 <div align="center">
   <a href="https://github.com/BernardoHalfeld">
